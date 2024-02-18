@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 djangorestframework = "==3.11.1"
-urllib3 = "==1.24.3"
+urllib3 = "==1.26.18"
 pyyaml = "==5.3.1"
 pygithub = "==1.53"
 python-gitlab = "==1.14.0"
