@@ -1,0 +1,11 @@
+djangorestframework==3.11.1
+urllib3==1.24.3
+PyYAML==5.3.1
+pip==19.1
+PyGithub==1.53
+python-gitlab==1.14.0
+requests==1.2.3
+Django==3.2
+Jinja2==2.10
+waitress==1.0.2
+Werkzeug==0.15.2

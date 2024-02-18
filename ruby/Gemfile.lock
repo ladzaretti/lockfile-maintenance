@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    campaigning (0.15.0)
+      soap4r (~> 1.5.0)
+    httpclient (2.8.3)
+    soap4r (1.5.8)
+      httpclient (>= 2.1.1)
+    t-minus (0.2.2)
+      campaigning (>= 0.15.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  t-minus (= 0.2.2)
+
+BUNDLED WITH
+   2.3.16
