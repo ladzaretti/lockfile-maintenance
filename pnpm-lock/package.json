@@ -15,7 +15,7 @@
 		},
 		"devDependencies": {
 				"@astrojs/mdx": "^0.17.2",
-				"@astrojs/prism": "^2.0.0",
+				"@astrojs/prism": "^3.0.0",
 				"@astrojs/react": "^2.0.2",
 				"@astrojs/rss": "^2.1.1",
 				"@codemirror/lang-javascript": "^6.1.0",
