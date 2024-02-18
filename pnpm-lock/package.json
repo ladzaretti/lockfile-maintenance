@@ -25,7 +25,7 @@
 				"@codemirror/view": "6.4.0",
 				"@docsearch/css": "^3.3.0",
 				"@docsearch/js": "^3.3.0",
-				"@fontsource/inter": "^4.5.14",
+				"@fontsource/inter": "^5.0.0",
 				"@rometools/wasm-web": "../npm/wasm-web",
 				"@types/mermaid": "^9.1.0",
 				"@types/node": "^18.11.3",
