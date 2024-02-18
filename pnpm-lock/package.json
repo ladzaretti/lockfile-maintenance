@@ -39,7 +39,7 @@
 				"autoprefixer": "^10.4.12",
 				"codemirror-lang-rome-ast": "0.0.6",
 				"fast-diff": "^1.2.0",
-				"globby": "^13.1.2",
+				"globby": "^14.0.0",
 				"hast-util-to-html": "^8.0.3",
 				"lang-rome-formatter-ir": "0.0.2",
 				"mdast-util-to-hast": "^12.2.4",
