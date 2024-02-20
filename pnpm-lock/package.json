@@ -21,7 +21,7 @@
 				"@codemirror/lang-javascript": "^6.1.0",
 				"@codemirror/lang-json": "^6.0.1",
 				"@codemirror/lint": "^6.0.0",
-				"@codemirror/state": "6.1.2",
+				"@codemirror/state": "6.4.1",
 				"@codemirror/view": "6.4.0",
 				"@docsearch/css": "^3.3.0",
 				"@docsearch/js": "^3.3.0",
