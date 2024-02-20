@@ -22,7 +22,7 @@
 				"@codemirror/lang-json": "^6.0.1",
 				"@codemirror/lint": "^6.0.0",
 				"@codemirror/state": "6.1.2",
-				"@codemirror/view": "6.4.0",
+				"@codemirror/view": "6.24.1",
 				"@docsearch/css": "^3.3.0",
 				"@docsearch/js": "^3.3.0",
 				"@fontsource/inter": "^4.5.14",
